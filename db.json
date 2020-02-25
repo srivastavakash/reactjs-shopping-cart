@@ -1,4 +1,6 @@
 {
+  "products": [
+       {
         id: "1",
         name: "Pencil",
         price: 1,
@@ -46,3 +48,7 @@
         price: 14.99,
         description: "To prove to other devs you know a lot."
     }
+  "profile": {
+    "name": "srivastavakash"
+  }
+}
