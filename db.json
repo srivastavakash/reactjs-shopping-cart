@@ -50,7 +50,83 @@
           "description": "To prove to other devs you know a lot."
       }
       ],
-      "men_tshirts":[
+    "men_footwear": [
+         {
+        "id": "mfw-001",
+        "name": "DUNKASTON Running shoes for men",
+        "price": 379,
+        "img_url": "https://bit.ly/2v8gFLB"
+      },
+      {
+        "id": "mfw-002",
+        "name": "Oro Hiking & Trekking Shoes For Men  (Black)",
+        "price": 1999,
+        "img_url": "https://bit.ly/394R2d2"
+      },
+      {
+        "id": "mfw-003",
+        "name": "Asian Cosco Running Shoes For Men  (Navy, Blue)",
+        "price": 649,
+        "img_url": "https://bit.ly/2v8S4q1"
+      },
+      {
+        "id": "mfw-004",
+        "name": "LUKA MODRIC Running Shoes For Men  (Multicolor)",
+        "price": 654,
+        "img_url": "https://bit.ly/32uqtf1"
+      },
+      {
+        "id": "mfw-005",
+        "name": "Puma Skylark IDP Running Shoes For Men  (Navy)",
+        "price": 1549,
+        "img_url": "https://bit.ly/2PqXvaJ"
+      },
+      {
+        "id": "mfw-006",
+        "name": "Sparx Men Blue Sandal",
+        "price": 749,
+        "img_url": "https://bit.ly/2VqdJEv"
+      },
+      {
+        "id": "mfw-007",
+        "name": "Puma Men Grey Sports Sandal",
+        "price": 1499,
+        "img_url": "https://bit.ly/39cw9Nr"
+      },
+      {
+        "id": "mfw-008",
+        "name": "Puma Men Black, Green Sports Sandal",
+        "price": 1049,
+        "img_url": "https://bit.ly/2Ta3bqk"
+      },
+      {
+        "id": "mfw-009",
+        "name": "Woodland Men Brown Casual Sandal",
+        "price": 3295,
+        "img_url": "https://bit.ly/32rEJVT"
+      },
+      {
+        "id": "mfw-010",
+        "name": "Woodland Men Brown, Green Casual Sandal",
+        "price": 1539,
+        "img_url": "https://bit.ly/3ca1H8j"
+      },
+      {
+        "id": "mfw-011",
+        "name": "Kraasa Climber Boots For Men  (Beige)",
+        "price": 499,
+        "img_url": "https://bit.ly/38WTx14"
+      },
+      {
+        "id": "mfw-012",
+        "name": "Hotstyle ARW Loafers For Men  (Blue, Grey)",
+        "price": 849,
+        "img_url": "https://bit.ly/3c9cWOq"
+      }
+    ]
+      },
+     "men_tshirts":
+    { [
           {
           "id":"mt-001",
           "name":"Solid Men Round Neck Multicolor T-Shirt",
@@ -148,82 +224,8 @@
               "img_url":"https://bit.ly/2VoU08u"
           }
   
-      ] ,
-        "men_footwear": [
-         {
-        "id": "mfw-001",
-        "name": "DUNKASTON Running shoes for men",
-        "price": 379,
-        "img_url": "https://bit.ly/2v8gFLB"
-      },
-      {
-        "id": "mfw-002",
-        "name": "Oro Hiking & Trekking Shoes For Men  (Black)",
-        "price": 1999,
-        "img_url": "https://bit.ly/394R2d2"
-      },
-      {
-        "id": "mfw-003",
-        "name": "Asian Cosco Running Shoes For Men  (Navy, Blue)",
-        "price": 649,
-        "img_url": "https://bit.ly/2v8S4q1"
-      },
-      {
-        "id": "mfw-004",
-        "name": "LUKA MODRIC Running Shoes For Men  (Multicolor)",
-        "price": 654,
-        "img_url": "https://bit.ly/32uqtf1"
-      },
-      {
-        "id": "mfw-005",
-        "name": "Puma Skylark IDP Running Shoes For Men  (Navy)",
-        "price": 1549,
-        "img_url": "https://bit.ly/2PqXvaJ"
-      },
-      {
-        "id": "mfw-006",
-        "name": "Sparx Men Blue Sandal",
-        "price": 749,
-        "img_url": "https://bit.ly/2VqdJEv"
-      },
-      {
-        "id": "mfw-007",
-        "name": "Puma Men Grey Sports Sandal",
-        "price": 1499,
-        "img_url": "https://bit.ly/39cw9Nr"
-      },
-      {
-        "id": "mfw-008",
-        "name": "Puma Men Black, Green Sports Sandal",
-        "price": 1049,
-        "img_url": "https://bit.ly/2Ta3bqk"
-      },
-      {
-        "id": "mfw-009",
-        "name": "Woodland Men Brown Casual Sandal",
-        "price": 3295,
-        "img_url": "https://bit.ly/32rEJVT"
-      },
-      {
-        "id": "mfw-010",
-        "name": "Woodland Men Brown, Green Casual Sandal",
-        "price": 1539,
-        "img_url": "https://bit.ly/3ca1H8j"
-      },
-      {
-        "id": "mfw-011",
-        "name": "Kraasa Climber Boots For Men  (Beige)",
-        "price": 499,
-        "img_url": "https://bit.ly/38WTx14"
-      },
-      {
-        "id": "mfw-012",
-        "name": "Hotstyle ARW Loafers For Men  (Blue, Grey)",
-        "price": 849,
-        "img_url": "https://bit.ly/3c9cWOq"
-      }
-    ]
-      },
+      ] 
+}
     "profile": {
       "name": "srivastavakash"
     }
