@@ -1,5 +1,6 @@
 {
-  "products": [
+  "products":{
+      "stationery": [
        {
         "id": "1",
         "name": "Pencil",
@@ -49,6 +50,90 @@
         "description": "To prove to other devs you know a lot."
     }
     ],
+    "men-tshirts":[
+        {
+        "id":"mt-001",
+        "name":"Solid Men Round Neck Multicolor T-Shirt",
+        "price" : 249
+        },
+        {
+            "id":"mt-002",
+            "name":"Solid Men Round Neck Multicolor T-Shirt",
+            "price" : 249
+        },
+        {
+            "id":"mt-003",
+            "name":"Solid Men Round Neck Multicolor T-Shirt",
+            "price" : 249
+        },
+        {
+            "id":"mt-004",
+            "name":"Solid Men Round Neck Multicolor T-Shirt",
+            "price" : 249
+        },
+        {
+            "id":"mt-005",
+            "name":"Solid Men Round Neck Multicolor T-Shirt",
+            "price" : 249
+        },
+        {
+            "id":"mt-006",
+            "name":"Solid Men Round Neck Multicolor T-Shirt",
+            "price" : 249
+        },
+        {
+            "id":"mt-007",
+            "name":"Solid Men Round Neck Multicolor T-Shirt",
+            "price" : 249
+        },
+        {
+            "id":"mt-008",
+            "name":"Solid Men Round Neck Multicolor T-Shirt",
+            "price" : 249
+        },
+        {
+            "id":"mt-009",
+            "name":"Solid Men Round Neck Multicolor T-Shirt",
+            "price" : 249
+        },
+        {
+            "id":"mt-0010",
+            "name":"Solid Men Round Neck Multicolor T-Shirt",
+            "price" : 249
+        },
+        {
+            "id":"mt-0011",
+            "name":"Solid Men Round Neck Multicolor T-Shirt",
+            "price" : 249
+        },
+        {
+            "id":"mt-0012",
+            "name":"Solid Men Round Neck Multicolor T-Shirt",
+            "price" : 249
+        },
+        {
+            "id":"mt-0013",
+            "name":"Solid Men Round Neck Multicolor T-Shirt",
+            "price" : 249
+        },
+        {
+            "id":"mt-0014",
+            "name":"Solid Men Round Neck Multicolor T-Shirt",
+            "price" : 249
+        },
+        {
+            "id":"mt-0015",
+            "name":"Solid Men Round Neck Multicolor T-Shirt",
+            "price" : 249
+        },
+        {
+            "id":"mt-0016",
+            "name":"Solid Men Round Neck Multicolor T-Shirt",
+            "price" : 249
+        }
+
+    ]
+    },
   "profile": {
     "name": "srivastavakash"
   }
