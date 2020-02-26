@@ -1,156 +1,156 @@
 {
-  "products":{
-      "stationery": [
-       {
-        "id": "1",
-        "name": "Pencil",
-        "price": 1,
-        "description": "Perfect for those who can't remember things! 5/5 Highly recommend."
-    },
-    {
-        "id": "2",
-        "name": "Housing",
-        "price": 0,
-        "description": "Housing provided for out-of-state students or those who can't commute"
-    },
-    {
-        "id": "3",
-        "name": "Computer Rental",
-        "price": 300,
-        "description": "Don't have a computer? No problem!"
-    },
-    {
-        "id": "4",
-        "name": "Coffee",
-        "price": 2,
-        "description": "Wake up!"
-    },
-    {
-        "id": "5",
-        "name": "Snacks",
-        "price": 0,
-        "description": "Free snacks!"
-    }, 
-    {
-        "id": "6",
-        "name": "Rubber Duckies",
-        "price": 3.50,
-        "description": "To help you solve your hardest coding problems."
-    },
-    {
-        "id": "7",
-        "name": "Fidget Spinner",
-        "price": 21.99,
-        "description": "Because we like to pretend we're in high school."
-    },
-    {
-        "id": "8",
-        "name": "Sticker Set",
-        "price": 14.99,
-        "description": "To prove to other devs you know a lot."
+    "products":{
+        "stationery": [
+         {
+          "id": "1",
+          "name": "Pencil",
+          "price": 1,
+          "description": "Perfect for those who can't remember things! 5/5 Highly recommend."
+      },
+      {
+          "id": "2",
+          "name": "Housing",
+          "price": 0,
+          "description": "Housing provided for out-of-state students or those who can't commute"
+      },
+      {
+          "id": "3",
+          "name": "Computer Rental",
+          "price": 300,
+          "description": "Don't have a computer? No problem!"
+      },
+      {
+          "id": "4",
+          "name": "Coffee",
+          "price": 2,
+          "description": "Wake up!"
+      },
+      {
+          "id": "5",
+          "name": "Snacks",
+          "price": 0,
+          "description": "Free snacks!"
+      }, 
+      {
+          "id": "6",
+          "name": "Rubber Duckies",
+          "price": 3.50,
+          "description": "To help you solve your hardest coding problems."
+      },
+      {
+          "id": "7",
+          "name": "Fidget Spinner",
+          "price": 21.99,
+          "description": "Because we like to pretend we're in high school."
+      },
+      {
+          "id": "8",
+          "name": "Sticker Set",
+          "price": 14.99,
+          "description": "To prove to other devs you know a lot."
+      }
+      ],
+      "men-tshirts":[
+          {
+          "id":"mt-001",
+          "name":"Solid Men Round Neck Multicolor T-Shirt",
+          "price" : 249,
+          "img_url":"https://bit.ly/392s3Hn"
+          },
+          {
+              "id":"mt-002",
+              "name":"Checkered Men Polo Neck Blue T-Shirt",
+              "price" : 249,
+              "img_url":"https://bit.ly/2SYpeS0"
+          },
+          {
+              "id":"mt-003",
+              "name":"Printed Men Hooded Neck White T-Shirt",
+              "price" : 269,
+              "img_url":"https://rukminim1.flixcart.com/image/800/960/k01b8280/t-shirt/5/t/5/4xl-twthdful-just-tripr-original-imafjxcbxuenppat.jpeg?q=50"
+          },
+          {
+              "id":"mt-004",
+              "name":" Black, Red, Dark Blue T-Shirt Solid Men Round Neck",
+              "price" : 199,
+              "img_url":"https://bit.ly/32sKPFn"
+          },
+          {
+              "id":"mt-005",
+              "name":"Dark Blue,Grey,Black T-Shirt",
+              "price" : 249,
+              "img_url":"https://bit.ly/2w9Dnmk"
+          },
+          {
+              "id":"mt-006",
+              "name":"Mandarin Collar Yellow Black T-Shirt",
+              "price" : 365,
+              "img_url":"https://bit.ly/2VoU08u"
+          },
+          {
+              "id":"mt-007",
+              "name":"Self Design Men's Round Neck Blue T-Shirt",
+              "price" : 331,
+              "img_url":"https://bit.ly/2PmXVyv"
+          },
+          {
+              "id":"mt-008",
+              "name":"Round Neck Multicolor Cap T-Shirt",
+              "price" : 549,
+              "img_url":"https://bit.ly/2wIRqQc"
+          },
+          {
+              "id":"mt-009",
+              "name":"Solid Men Round Neck Multicolor T-Shirt",
+              "price" : 249
+              
+          },
+          {
+              "id":"mt-0010",
+              "name":"Kay Dee Typography Men Hooded Neck Yellow, Black T-Shirt",
+              "price" : 299,
+              "img_url":"https://bit.ly/2SXoUTJ"
+          },
+          {
+              "id":"mt-0011",
+             "name":" Black, Red, Dark Blue T-Shirt Solid Men Round Neck",
+              "price" : 199,
+              "img_url":"https://bit.ly/32sKPFn"
+          },
+          {
+              "id":"mt-0012",
+              "name":"Men Solid Casual Dark Blue T-Shirt",
+              "price" : 649,
+              "img_url":"https://bit.ly/32s8zcD"
+          },
+          {
+              "id":"mt-0013",
+              "name":"Men Solid Casual Spread T-Shirt",
+              "price" : 249,
+              "img_url":"https://bit.ly/32qlP1s"
+          },
+          {
+              "id":"mt-0014",
+              "name":"Finivo Fashion Mens Spread T-Shirt",
+              "price" : 249,
+              "img_url":"https://bit.ly/2w2tMOv"
+          },
+          {
+              "id":"mt-0015",
+              "name":"Solid Men Round Neck Multicolor T-Shirt",
+              "price" : 249
+             
+          },
+          {
+              "id":"mt-0016",
+               "name":"Mandarin Collar Yellow Black T-Shirt",
+              "price" : 365,
+              "img_url":"https://bit.ly/2VoU08u"
+          }
+  
+      ]
+      },
+    "profile": {
+      "name": "srivastavakash"
     }
-    ],
-    "men-tshirts":[
-        {
-        "id":"mt-001",
-        "name":"Solid Men Round Neck Multicolor T-Shirt",
-        "price" : 249,
-        "img_url":"https://bit.ly/392s3Hn"
-        },
-        {
-            "id":"mt-002",
-            "name":"Checkered Men Polo Neck Blue T-Shirt",
-            "price" : 249,
-            "img_url":"https://bit.ly/2SYpeS0"
-        },
-        {
-            "id":"mt-003",
-            "name":"Printed Men Hooded Neck White T-Shirt",
-            "price" : 269,
-            "img_url":"https://rukminim1.flixcart.com/image/800/960/k01b8280/t-shirt/5/t/5/4xl-twthdful-just-tripr-original-imafjxcbxuenppat.jpeg?q=50"
-        },
-        {
-            "id":"mt-004",
-            "name":" Black, Red, Dark Blue T-Shirt Solid Men Round Neck",
-            "price" : 199,
-            "img_url":"https://bit.ly/32sKPFn"
-        },
-        {
-            "id":"mt-005",
-            "name":"Dark Blue,Grey,Black T-Shirt",
-            "price" : 249,
-            "img_url":"https://bit.ly/2w9Dnmk"
-        },
-        {
-            "id":"mt-006",
-            "name":"Mandarin Collar Yellow Black T-Shirt",
-            "price" : 365,
-            "img_url":"https://bit.ly/2VoU08u"
-        },
-        {
-            "id":"mt-007",
-            "name":"Self Design Men's Round Neck Blue T-Shirt",
-            "price" : 331,
-            "img_url":"https://bit.ly/2PmXVyv"
-        },
-        {
-            "id":"mt-008",
-            "name":"Round Neck Multicolor Cap T-Shirt",
-            "price" : 549,
-            "img_url":"https://bit.ly/2wIRqQc"
-        },
-        {
-            "id":"mt-009",
-            "name":"Solid Men Round Neck Multicolor T-Shirt",
-            "price" : 249
-            
-        },
-        {
-            "id":"mt-0010",
-            "name":"Kay Dee Typography Men Hooded Neck Yellow, Black T-Shirt",
-            "price" : 299,
-            "img_url":"https://bit.ly/2SXoUTJ"
-        },
-        {
-            "id":"mt-0011",
-           "name":" Black, Red, Dark Blue T-Shirt Solid Men Round Neck",
-            "price" : 199,
-            "img_url":"https://bit.ly/32sKPFn"
-        },
-        {
-            "id":"mt-0012",
-            "name":"Men Solid Casual Dark Blue T-Shirt",
-            "price" : 649,
-            "img_url":"https://bit.ly/32s8zcD"
-        },
-        {
-            "id":"mt-0013",
-            "name":"Men Solid Casual Spread T-Shirt",
-            "price" : 249,
-            "img_url":"https://bit.ly/32qlP1s"
-        },
-        {
-            "id":"mt-0014",
-            "name":"Finivo Fashion Mens Spread T-Shirt",
-            "price" : 249,
-            "img_url":"https://bit.ly/2w2tMOv"
-        },
-        {
-            "id":"mt-0015",
-            "name":"Solid Men Round Neck Multicolor T-Shirt",
-            "price" : 249,
-            "img_url":
-        },
-        {
-            "id":"mt-0016",
-             "name":"Mandarin Collar Yellow Black T-Shirt",
-            "price" : 365,
-            "img_url":"https://bit.ly/2VoU08u"
-        }
-
-    ]
-    },
-  "profile": {
-    "name": "srivastavakash"
   }
-}
