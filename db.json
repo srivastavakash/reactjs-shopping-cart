@@ -126,7 +126,7 @@
     ]
       },
      "men_tshirts": [
-    { 
+   
           {
           "id":"mt-001",
           "name":"Solid Men Round Neck Multicolor T-Shirt",
@@ -223,8 +223,6 @@
               "price" : 365,
               "img_url":"https://bit.ly/2VoU08u"
           }
-      
-            }
          ],
     "profile": {
       "name": "srivastavakash"
