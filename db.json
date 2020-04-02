@@ -221,6 +221,33 @@
       "img_url": "https://bit.ly/3c9cWOq"
     }
   ],
+  "allProducts": [
+    {
+      "id": 1,
+      "productName": "Moto G5",
+      "quantity": 5,
+      "Price": 13000
+    },
+    {
+      "id": 2,
+      "productName": "Dell Inspiron 3560",
+      "quantity": 3,
+      "Price": 35450
+    },
+    {
+      "id": 3,
+      "productName": "Nova Mens Trimmer",
+      "quantity": 14,
+      "Price": 699
+    },
+    {
+      "id": 4,
+      "productName": "Wipro LED BUB 5 W",
+      "quantity": 25,
+      "Price": 129
+    }
+  ]
+  ,
   "profile": {
     "name": "srivastavakash"
   }
